@@ -1,0 +1,18 @@
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\bin\Debug\ChipsVendingMachine.exe
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\bin\Debug\ChipsVendingMachine.pdb
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.Form1.resources
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.Properties.Resources.resources
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.exe
+c:\users\manpreet\documents\visual studio 2010\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.pdb
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\bin\Debug\ChipsVendingMachine.exe
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\bin\Debug\ChipsVendingMachine.pdb
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.Form1.resources
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.Properties.Resources.resources
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.csproj.GenerateResource.cache
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.csproj.CoreCompileInputs.cache
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.exe
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.pdb
+D:\Projects\ChipsVendingMachine\ChipsVendingMachine\obj\x86\Debug\ChipsVendingMachine.csproj.AssemblyReference.cache
